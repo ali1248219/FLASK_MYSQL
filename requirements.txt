@@ -1,0 +1,6 @@
+flask
+Flask-SQLALchemy
+flask_mysqldb
+mysql-connector
+mysql-connector-python
+mysql-connector-python-rf
